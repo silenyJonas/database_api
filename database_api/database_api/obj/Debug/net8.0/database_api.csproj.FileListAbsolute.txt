@@ -1,0 +1,38 @@
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.AssemblyInfoInputs.cache
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.AssemblyInfo.cs
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.csproj.CoreCompileInputs.cache
+C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\database_api.exe
+C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\database_api.deps.json
+C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\database_api.runtimeconfig.json
+C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\database_api.dll
+C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\database_api.pdb
+C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.csproj.AssemblyReference.cache
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.csproj.CopyComplete
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.dll
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\refint\database_api.dll
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.pdb
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.genruntimeconfig.cache
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\ref\database_api.dll
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\bin\Debug\net8.0\database_api.exe
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\bin\Debug\net8.0\database_api.deps.json
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\bin\Debug\net8.0\database_api.runtimeconfig.json
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\bin\Debug\net8.0\database_api.dll
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\bin\Debug\net8.0\database_api.pdb
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.csproj.AssemblyReference.cache
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.AssemblyInfoInputs.cache
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.AssemblyInfo.cs
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.csproj.CoreCompileInputs.cache
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database.CEC3EC0D.Up2Date
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.dll
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\refint\database_api.dll
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.pdb
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.genruntimeconfig.cache
+C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\ref\database_api.dll
