@@ -1,13 +1,17 @@
-konzolový nástroj pro správu db serveru
-2 OKNA:
+Console tool for managing a database server
+
+2 WINDOWS:
+
 LOGIN:
-->zadat jméno a heslo ulozené v database_api/Documents/user.txt
+-> Enter username and password stored in database_api/Documents/user.txt
+
 APP:
-->input do db skrze pøíkazy v konzoly -prikazy v command_list.txt nebo vypsat cely list prikazem help
+-> Input database commands through the console
+-> Commands are listed in command_list.txt or use the 'help' command to display the full list
 
-testovací sekvence pøíkazù:
+Test command sequence:
 
-dbcon localhost 5432 postgres postgres [HesloNastavenéUAdmin]
+dbcon localhost 5432 postgres postgres [AdminPassword]
 crusr test_user->123456Ab
 newdb test_db
 dbdc
