@@ -11,7 +11,7 @@
 ### Test command sequence:
 
 login server
-```bash
+```cmd
 dbcon localhost 5432 postgres postgres [AdminPassword]
 ```
 create user
