@@ -1,0 +1,13 @@
+logout - odhlásí uživatele
+help - Vypíše zkrácenou verzi tohoto souboru do konzole
+dbcon [Host] [Port] [Database_Name] [UserName] [Password] - pripojení k databázi např.: dbcon localhost 5432 test_database postgres 123456Ab
+dbdc - odpojení od databáze
+insert [Tabulka] [Sloupec]->[Hodnota]->[DatovýTyp] - insert do tabulky
+delete [Tabulka] [Sloupec]->[Hodnota]->[DatovýTyp] - delete podle hodnoty ve sloupci
+update [Tabulka] [IdentifikačníSloupec]->[Hodnota]->[DatovýTyp] [Sloupec]->[NováHodnota]->[DatovýTyp] - update záznamu podle identifikátoru
+newtb [NázevTebulky] [NázevSloupce]->[DatovýTyp] - vytvoří novou tabulku - např.: newtb student jmeno->varchar(255) prijmeni->varchar(255) vek->int
+droptb [NázevTabulky] - Smaže tabulku
+newdb [NázevDatabáze] - Vytvoří databázi
+dropdb [NázevDatabáze] - Smaže databázi
+crusr [NázevUživatele]->[Heslo] - Vytvoří uživatele
+dropusr [NázevUživatele] - Smaže uživatele
