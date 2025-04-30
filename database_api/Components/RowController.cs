@@ -36,7 +36,6 @@ namespace database_api.Components
                 }
                 else
                 {
-
                     string tempData = TempRow;                    
                     AddRowToList(new Package(null, false));
                     Package package = cmp.Execute(tempData, Title); //systemValue - true=systemove hlasky; false=uzivatelsky input                    
@@ -64,7 +63,6 @@ namespace database_api.Components
                     TempRow = TempRow.Substring(0, TempRow.Length - 1);
                 }
                 Console.Clear();
-
             }
             else
             {
@@ -89,7 +87,6 @@ namespace database_api.Components
             if(package.Data.Length > 0)
             {
                 //je vic radku
-
                 if (RowDataSingleton.GetInstance().RowData.Length == RowDataSingleton.GetInstance().RowCounter)
                 {
                     RowDataSingleton.GetInstance().RowData = ExpandArray(RowDataSingleton.GetInstance().RowData, RowDataSingleton.GetInstance().RowCounter);
@@ -100,11 +97,7 @@ namespace database_api.Components
                 else
                     TempRow = Title;
                 RowDataSingleton.GetInstance().RowCounter++;
-
                 repeatingCounter = package.Data.Length;
-
-               
-
                 for (int i = 0; i < repeatingCounter; i++)
                 {
                     if (RowDataSingleton.GetInstance().RowData.Length == RowDataSingleton.GetInstance().RowCounter)
@@ -123,7 +116,6 @@ namespace database_api.Components
             {
                 //neni vic radku
                 repeatingCounter = 1;
-
                 if (RowDataSingleton.GetInstance().RowData.Length == RowDataSingleton.GetInstance().RowCounter)
                 {
                     RowDataSingleton.GetInstance().RowData = ExpandArray(RowDataSingleton.GetInstance().RowData, RowDataSingleton.GetInstance().RowCounter);
@@ -135,8 +127,6 @@ namespace database_api.Components
                     TempRow = Title;
                 RowDataSingleton.GetInstance().RowCounter++;
             }              
-
-           
         }
 
         public Row[] GetRows()
@@ -149,15 +139,12 @@ namespace database_api.Components
         }
         private Row[] ExpandArray(Row[] rows, int count)
         {
-            
             Row[] newArray = new Row[rows.Length * 2];
             for (int i = 0; i < count; i++)
             {
                 newArray[i] = rows[i];
             }
             return newArray;
-            
-
         }
         private bool Validate()
         {

@@ -11,7 +11,6 @@ C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\Microsoft.Exte
 C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\senpa\Desktop\database_api\database_api\bin\Debug\net8.0\Npgsql.dll
 C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.csproj.AssemblyReference.cache
-C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.csproj.CopyComplete
 C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.dll
 C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\refint\database_api.dll
 C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.pdb
@@ -36,3 +35,5 @@ C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.
 C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.pdb
 C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\database_api.genruntimeconfig.cache
 C:\Users\senpa\Desktop\prg jonko joncl\database_api\database_api\obj\Debug\net8.0\ref\database_api.dll
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database_api.sourcelink.json
+C:\Users\senpa\Desktop\database_api\database_api\obj\Debug\net8.0\database.CEC3EC0D.Up2Date

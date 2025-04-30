@@ -154,6 +154,7 @@ namespace database_api.DatabaseController
 
         public static string[] Select(string tableName)
         {
+            //SQL injekce ktera se musi nejak osetrit
             var columnsQuery = $"SELECT column_name FROM information_schema.columns WHERE table_name = '{tableName}' ORDER BY ordinal_position";
             var columns = new List<string>();
 
@@ -186,7 +187,6 @@ namespace database_api.DatabaseController
                     results.Add(result.Trim());
                 }
             }
-
             return results.ToArray();
         }
 

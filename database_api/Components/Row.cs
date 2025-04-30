@@ -17,7 +17,6 @@ namespace database_api.Components
             this.Value = value;
             this.SystemValue = systemValue;
             this.Color = color;
-            
         }
     }
 }

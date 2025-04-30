@@ -19,8 +19,6 @@ namespace database_api.Components
             systemValue = _systemValue;
             Color = consoleColor;
             Data = data ?? new string[0];
-            
         }
-
     }
 }
