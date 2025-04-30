@@ -1,7 +1,7 @@
 # Console tool for managing a PostgreSQL database
 
 ## 2 WINDOWS:
-##LOGIN:
+### LOGIN:
 -> Enter username and password stored in database_api/Documents/user.txt; stored in plain to demonstrate filesystem input
 
 ### APP:
